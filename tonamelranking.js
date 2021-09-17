@@ -33,5 +33,9 @@
     str += (user[0] + "\t" + user[1] + "\n");
   }
 
-  alert(str);
+  if(window.navigator.userAgent.indexOf("Chrome") != -1) {
+    prompt("このままコピーしてください", str);
+  } else {
+    alert(str);
+  }
 })();
