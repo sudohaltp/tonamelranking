@@ -12,7 +12,8 @@ Chromeの場合、入力欄の中身が選択された状態になっている�
 
 *ブックマークバーで右クリックして「ブックマークを追加...」（FFの場合） / 「ページを追加...」(Chromeの場合）を選びURL欄にコードをコピペする。
 
-これを貼り付ける用の集計用のスプレッドシートもあります
+これを貼り付けて使うランバト集計用のスプレッドシートもあります
+
 https://docs.google.com/spreadsheets/d/1OK-kaOSAaitGmTqQO5KIOBUyMLhD5197d0RWL1rr5VQ/edit#gid=1716235249
 
 [32位まで版]
