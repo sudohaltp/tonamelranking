@@ -20,6 +20,8 @@
 
   let rank = 2;
   for (let i = losers.length - 1; rank < limit; i--) {
+    if (i < 0) { break; }
+    
     let names = loser_names(losers[i]);
     
     rank += names.length;
