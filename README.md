@@ -27,7 +27,3 @@ javascript:(function()%7Bconst%20limit%3D64%3B%2F*%20entry-name%E3%81%AE%E4%BB%A
 ~~~
 
 バグや要望（対応できるかはわかりませんが）があればhttps://twitter.com/sudo_halt_game まで
-
-
-![20210928_002209](https://user-images.githubusercontent.com/90927112/135102717-43183414-2d6e-46f5-8fb8-595cda4985f1.JPG)
-![20210928_002208](https://user-images.githubusercontent.com/90927112/135102729-0c85dd1a-bcd5-4765-a9e3-a8db26fc1acc.JPG)
